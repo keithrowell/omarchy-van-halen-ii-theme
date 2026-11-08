@@ -1,0 +1,38 @@
+mode = "dark"
+
+# Van Halen II (1979). The deep teal field of the sleeve, the pink and
+# silver chrome of the winged VH, and the pale cyan of the spaced title.
+
+accent = "#d8a19c"
+selection = "#1f5a6e"
+muted = "#4f7385"
+
+background = "#013546"
+dark_background = "#012b39"
+darker_background = "#01212c"
+lighter_background = "#0b4659"
+
+foreground = "#d9d9e1"
+dark_foreground = "#6e90a5"
+light_foreground = "#b9c5d1"
+bright_foreground = "#f4f2f6"
+
+red = "#e07f76"
+yellow = "#e8cf9f"
+orange = "#e39a82"
+green = "#93c9ad"
+cyan = "#7ec4d6"
+blue = "#8fb2cf"
+magenta = "#cfa2bb"
+brown = "#a85f58"
+
+bright_red = "#f0a39b"
+bright_yellow = "#f4e2bf"
+bright_green = "#b6dcc6"
+bright_cyan = "#a9dbe7"
+bright_blue = "#b9cfe2"
+bright_magenta = "#e2c3d4"
+
+# Window borders run pink to chrome silver, like the logo's bevels.
+hyprland_active_border = "rgba(d8a19cee) rgba(d9d9e1ee) 45deg"
+hyprland_inactive_border = "rgba(0b4659aa)"
