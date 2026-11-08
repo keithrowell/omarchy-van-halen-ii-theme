@@ -6,6 +6,9 @@ mode = "dark"
 # Windows sit a shade deeper than the sleeve, so they lift off the
 # wallpaper. The shade is the sleeve teal (#013546) pulled down towards
 # the slate shadow in the logo's chrome (#2d3a47).
+#
+# Text is the logo's silver with a touch of its pink, so it reads soft
+# and warm on the deep teal.
 
 accent = "#d8a19c"
 selection = "#1f5a6e"
@@ -16,10 +19,10 @@ dark_background = "#041a24"
 darker_background = "#03141c"
 lighter_background = "#0e2f3d"
 
-foreground = "#d9d9e1"
+foreground = "#d6ccd0"
 dark_foreground = "#6e90a5"
 light_foreground = "#b9c5d1"
-bright_foreground = "#f4f2f6"
+bright_foreground = "#f3ecee"
 
 red = "#e07f76"
 yellow = "#e8cf9f"
