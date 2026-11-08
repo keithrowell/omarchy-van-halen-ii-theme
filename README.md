@@ -1,6 +1,6 @@
 # Van Halen II
 
-An [Omarchy](https://omarchy.org/) theme taken from the cover of Van Halen's second album, *Van Halen II* (Warner Bros., 1979). The background is the sleeve's deep teal. Text is the silver of the chrome VH logo, and the accent is the logo's pink.
+An [Omarchy](https://omarchy.org/) theme taken from the cover of Van Halen's second album, *Van Halen II* (Warner Bros., 1979). The wallpaper is the sleeve's deep teal, and windows sit a shade deeper so they lift off it. Text is the silver of the chrome VH logo, and the accent is the logo's pink.
 
 ![Van Halen II](preview.png)
 
@@ -30,7 +30,7 @@ Every colour on the sleeve was sampled from the cover. Green and yellow do not a
 
 | Role | Colour | Source |
 |------|--------|--------|
-| Background | `#013546` | The sleeve |
+| Background | `#06202c` | The sleeve teal pulled down towards the slate shadow in the logo's chrome |
 | Foreground | `#d9d9e1` | The logo's chrome highlights |
 | Accent | `#d8a19c` | The logo's pink faces |
 | Cyan | `#7ec4d6` | The title lettering |
@@ -38,7 +38,7 @@ Every colour on the sleeve was sampled from the cover. Green and yellow do not a
 | Red | `#e07f76` | The logo's shaded pink |
 | Brown | `#a85f58` | The logo's darkest pink |
 
-Window borders run from the pink to the silver at 45 degrees, like the bevels on the logo. The full set is in [`colors.toml`](colors.toml).
+The sleeve itself is `#013546`, and the wallpapers keep it. Window borders run from the pink to the silver at 45 degrees, like the bevels on the logo. Inactive windows keep a thin rim of the selection teal. The full set is in [`colors.toml`](colors.toml).
 
 ## Licence
 
