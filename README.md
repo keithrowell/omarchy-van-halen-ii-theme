@@ -14,18 +14,11 @@ The theme applies as soon as it installs.
 
 ## Backgrounds
 
-<table>
-  <tr>
-    <td width="50%"><img src="screenshots/desktop-1-van-halen-ii.webp" alt="The full sleeve"><br><code>1-van-halen-ii.jpg</code>: the full sleeve, with the title above the winged logo</td>
-    <td width="50%"><img src="screenshots/desktop-2-wings.webp" alt="The winged logo"><br><code>2-wings.jpg</code>: the winged logo alone</td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="screenshots/desktop-3-title.webp" alt="The title"><br><code>3-title.jpg</code>: the title alone</td>
-    <td width="50%"></td>
-  </tr>
-</table>
-
-Switch between them with `omarchy theme bg next`.
+<p>
+<img src="screenshots/desktop-1-van-halen-ii.webp" alt="The full sleeve" width="49%">
+<img src="screenshots/desktop-2-wings.webp" alt="The winged logo" width="49%">
+<img src="screenshots/desktop-3-title.webp" alt="The title" width="49%">
+</p>
 
 ## btop
 
