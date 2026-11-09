@@ -20,6 +20,12 @@ The theme applies as soon as it installs.
 <img src="screenshots/desktop-3-title.webp" alt="The title" width="49%">
 </p>
 
+## OmarkyReader
+
+[OmarkyReader](https://github.com/keithrowell/omarky) reads Markdown in the theme's colours.
+
+![OmarkyReader in Van Halen II](screenshots/omarky-reader.webp)
+
 ## btop
 
 ![btop in Van Halen II](screenshots/btop.webp)
