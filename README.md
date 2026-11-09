@@ -10,15 +10,9 @@ An [Omarchy](https://omarchy.org/) theme from the cover of *Van Halen II* (Warne
 omarchy theme install https://github.com/keithrowell/omarchy-van-halen-ii-theme
 ```
 
-The theme applies as soon as it installs.
+## Background
 
-## Backgrounds
-
-<p>
-<img src="screenshots/desktop-1-van-halen-ii.webp" alt="The full sleeve" width="49%">
-<img src="screenshots/desktop-2-wings.webp" alt="The winged logo" width="49%">
-<img src="screenshots/desktop-3-title.webp" alt="The title" width="49%">
-</p>
+![The Van Halen II wallpaper](screenshots/background.webp)
 
 ## OmarkyReader
 
@@ -32,4 +26,4 @@ The theme applies as soon as it installs.
 
 ## Licence
 
-The theme files are MIT licensed, see [LICENSE](LICENSE). The wallpapers and screenshots are built from the album artwork, which belongs to its rights holders. This is an unofficial fan theme.
+The theme files are MIT licensed, see [LICENSE](LICENSE). The wallpaper and screenshots are built from the album artwork, which belongs to its rights holders. This is an unofficial fan theme.
