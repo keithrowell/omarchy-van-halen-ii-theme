@@ -16,7 +16,7 @@ omarchy theme install https://github.com/keithrowell/omarchy-van-halen-ii-theme
 
 ## OmarkyReader
 
-[OmarkyReader](https://github.com/keithrowell/omarky) reads Markdown in the theme's colours.
+[OmarkyReader](https://keithrowell.github.io/omarky/#reader) reads Markdown in the theme's colours.
 
 ![OmarkyReader in Van Halen II](screenshots/omarky-reader.webp)
 
